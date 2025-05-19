@@ -1,4 +1,8 @@
-# ESLinter - All for [`ESLint`](https://github.com/eslint)
+# ESLinter
+
+> [!CAUTION]
+> 
+> Clarification: it's an unofficial community organization all for [`ESLint`](https://github.com/eslint) but not a part of it.
 
 > 轮子主义初级阶段 v0.0.1 [@1stG.me](https://www.1stG.me)
 >  
